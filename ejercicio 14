@@ -1,0 +1,4 @@
+#ejercicio 14 
+numero uno = (input("ingresar un numero entero"))
+numero dos = (input("ingresar un numero entero"))
+print ("division numerouno/numerodos")
