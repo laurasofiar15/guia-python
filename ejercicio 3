@@ -1,0 +1,3 @@
+palabra "hola mundo"
+#mostrar en la pantalla la palabra "hola mundo"
+print ("hola mundo")
