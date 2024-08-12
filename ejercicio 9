@@ -1,0 +1,6 @@
+#ejercicio 9
+mi peso = input ("cual es tu peso en kg")
+print ("mi peso,mi estarura")
+mi estatura= input ("cual es tu estatura en metros")
+print("usando mi estatura")
+print (46/155)
