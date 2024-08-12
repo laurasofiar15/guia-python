@@ -1,0 +1,7 @@
+#ejercicio 10
+peso en g = 112 
+peso cilindro = 75
+#cilindros vendidos
+nuemro de engranes= input ("numero de cilindros vendidos")
+peso total ("num de engranes * peso")
+print ("peso de total del paquete (peso total")
