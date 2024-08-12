@@ -1,0 +1,6 @@
+#ejercicio 7
+mi sueldo = input ("cuantas horas trabajas")
+print ("usando, mi sueldo")
+mis horas = input ("cual es el costo por hora")
+print ("mi sueldo")
+print (1000*5)
