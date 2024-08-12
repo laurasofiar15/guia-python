@@ -1,0 +1,6 @@
+#ejercicio 8
+n = int (input("introducir el numero positivo"))
+suma = n *(n+1)/2
+print ("la suma de numeros enteros desde 1 hasta,n")
+print (numero positivo, 5)
+print (suma de los enteros 1 a 5, 15)
