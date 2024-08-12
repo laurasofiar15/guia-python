@@ -1,0 +1,6 @@
+#ejercicio 16
+numero positivo = int (input("introduce un numero positivo"))
+if numero > 0
+for i % 2=0
+print ("numeros impares desde 1 , numero")
+else: print ("por favor introducir el numero entero positvo")
