@@ -1,0 +1,4 @@
+#ejercicio 15
+palabra = input ("escribir una palabra")
+for x in range (10)
+print palabra
