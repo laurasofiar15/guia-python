@@ -1,0 +1,9 @@
+#ejercicio 11 
+"precio habitual" = 3.49
+descuento porcentaje = 0.60
+numero de barras 
+int (input ("introduce el numero de barrasde pan que no son del dia"))
+descuento = precio habiatual * descuento de porcentaje
+print (num de barras de pan, 5)
+print (precio de una barra de pan, 3.49)
+print (coste final total, 7.00)
