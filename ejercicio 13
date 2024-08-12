@@ -1,0 +1,6 @@
+#ejercicio 13
+contraseña ="contraseña"
+entrada de usuario = input ("introducir la contraseña")
+if entrada de usuario == contraseña
+print ("la contraseña es incorrecta") 
+print ("la contraseña es correcta")
